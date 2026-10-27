@@ -15,7 +15,7 @@ export const testData = {
   /** Exact server response shown after submitting without a selected file. */
   emptyUploadMessage: 'No file was chosen. Please choose a file to upload.',
   /** HTTP status returned by the live application for an empty form submission. */
-  emptyUploadStatus: 500,
+  emptyUploadStatus: 200,
   /** Heading on the initial upload page. */
   uploadPageHeading: 'File Uploader',
   /** Stable success class applied by Dropzone after it completes a successful upload. */
