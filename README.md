@@ -49,11 +49,10 @@ This project is a small end-to-end automation framework for the file upload page
 
 ## Clone and run
 
-Replace `<repository-url>` with the clone URL for this project:
-
 ```sh
-git clone <repository-url> playwright-upload
-cd playwright-upload
+git clone https://github.com/irfanjunaid1992/web_project_playwright.git
+cd web_project_playwright
+git checkout feature/web_project
 npm run e2e
 ```
 
